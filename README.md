@@ -13,6 +13,7 @@ microservices
 
 ```
 <b>Technologies Used</b>
+```
 Java 21
 Spring Boot 3.x
 Spring Cloud 2025.x
@@ -22,3 +23,4 @@ OpenFeign
 Spring Data JPA
 H2 / MySQL (configurable)
 Maven
+```
